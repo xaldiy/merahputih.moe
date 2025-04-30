@@ -9,5 +9,9 @@ export const data: ICnames = {
     "tekaje": "zarxd.github.io/tkj-one-gallery",
     "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
+    "aldi": "aldi.my.id",
+    "luzoryx": "aldi.setiadi.lat",
+    "dila": "housealdi.blogspot.com",
+    "love": "aldi.my.id",
   }
 };
